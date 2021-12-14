@@ -1,0 +1,4 @@
+Sitemap: https://vsekredity-chel.ru/sitemap.xml
+
+User-agent: *
+Disallow:
